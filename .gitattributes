@@ -1,0 +1,3 @@
+/** filter=git-crypt diff=git-crypt
+.git* !filter !diff
+scans/ !filter !diff !merge !text
