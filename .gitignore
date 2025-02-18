@@ -16,6 +16,7 @@
 *.out
 *.snm
 *.synctex.gz
+*.synctex.gz(busy)
 *.toc
 *.vrb
 *.xdv
